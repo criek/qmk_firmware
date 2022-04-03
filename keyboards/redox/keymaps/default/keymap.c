@@ -9,9 +9,7 @@
 
 enum custom_keycodes {
   QWERTY = SAFE_RANGE,
-  SYMB,
-  NAV,
-  ADJUST,
+  SYMB
 };
 
 // Shortcut to make keymap more readable
